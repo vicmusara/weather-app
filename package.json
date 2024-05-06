@@ -1,0 +1,22 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Weather app",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('Hello, World')\u001b[D\u001b[D!\u001b[C"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vicmusara/weather-app.git"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "Victor MG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vicmusara/weather-app/issues"
+  },
+  "homepage": "https://github.com/vicmusara/weather-app#readme"
+}
