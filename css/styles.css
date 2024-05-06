@@ -1,0 +1,25 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+input[type="text"] {
+    padding: 8px;
+    width: 200px;
+    margin-right: 10px;
+}
+
+button {
+    padding: 8px 20px;
+    cursor: pointer;
+}
+
+#loading {
+    font-style: italic;
+    color: #666;
+}
